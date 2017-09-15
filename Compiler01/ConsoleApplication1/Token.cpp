@@ -10,6 +10,24 @@ token::token()
 }
 
 
+token::~token() // destructor
+{
+	
+}
+
+
+tokentype token::get_type()// const {return type;}
+
+string token::get_text()// const {return text;}
+	
+int token::get_line_num() //const
+
+int token:: get_position()
+
+	
+	
+	
+
 /*Calls the superclass 'source' for its currentChar function*/
 char token::currentChar()
 {
