@@ -1,0 +1,9 @@
+﻿  scanner.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\any(14): fatal error C1189: #error:  class any is only available with C++17.
+  Token.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\any(14): fatal error C1189: #error:  class any is only available with C++17.
+  Parser.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\any(14): fatal error C1189: #error:  class any is only available with C++17.
+  Main.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\any(14): fatal error C1189: #error:  class any is only available with C++17.
+  Generating Code...
